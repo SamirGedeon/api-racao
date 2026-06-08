@@ -146,8 +146,4 @@ Operações testadas:
 * Atualização (PUT)
 * Exclusão (DELETE)
 
----
 
-## Autor
-
-Projeto desenvolvido por aluno da disciplina Laboratório de Programação Back-End como atividade avaliativa da P2.
