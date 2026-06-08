@@ -10,18 +10,6 @@ O objetivo do projeto é aplicar conceitos de desenvolvimento de APIs, integraç
 
 ---
 
-## Tecnologias Utilizadas
-
-* Python
-* FastAPI
-* Docker
-* Docker Compose
-* PostgreSQL
-* GitHub
-* Docker Hub
-
----
-
 ## Funcionalidades
 
 A API permite:
